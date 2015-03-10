@@ -1,0 +1,26 @@
+Script started on 2015年03月10日 (週二) 17時27分56秒
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ script lab1.scriptcd ..[Klab1[3@mkdir[C[C[C[C[Cls[Kpasswordgit clone https://github.com/f74034041/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpassword[Kls[Kmkdir lab1[3Pcd[C[C[C[C[C[2P..script lab1.script[Kscript lab1.script[Kwhoami;pwd
+F74034041
+/home/F74034041
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ git cong[Kfog[K[Kig -l
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ git config -l[3Pwhoami;pwdscript lab1.scriptcd ..[K[K[K[K[K[Kgit done [K[K[K[K[Kclone https://github.com/f74034041/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ cay[Kt lab1.script
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ mv lab1.script lab1
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ ls
+[0m[01;34mlab1[0m
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ push [K[K[K[K[Kgit push [K[K[K[K[K[K config --global user.name ""f"7"4"0"3"4"0"4"1"
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ git config --global user.name "f74034041"[1P "f74034041"[1P "f74034041"[1P "f74034041"[1P "f74034041"e "f74034041"m "f74034041"a "f74034041"i "f74034041"l "f74034041"[C[C[C[1P74034041"F74034041"[C[C[C[C[C[C[C[C@"m"a"i"l"."n"c"k"u"."e"d"u"."t"w" [A]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ con[K[K[Kgit config --global user.email "F74034041@mail.ncku.edu.tw" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pname "f74034041"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kmv lab1.script lab1[4Pcat lab1.scriptgit clone https://github.com/f74034041/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K[3Pwhoami;pwdgit config -l
+user.name=f74034041
+user.email=F74034041@mail.ncku.edu.tw
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ git config -l-global user.email "F74034041@mail.ncku.edu.tw" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgut [K[K[Kit add lab1.script [K
+fatal: Not a git repository (or any of the parent directories): .git
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ ls
+[0m[01;34mlab1[0m
+]0;F74034041@2015cpp: ~F74034041@2015cpp:~$ lsgit add lab1.script[K[K[K[K[K[K[K
+fatal: Not a git repository (or any of the parent directories): .git
+]0;F74034041@2015cpp: ~F74034041@20
